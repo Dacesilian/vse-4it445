@@ -23,6 +23,12 @@ export class ProductsPage extends Component {
         price: '1 000',
         shortInfo: 'No comment.',
       },
+      {
+        id: 4,
+        title: 'Ferrari',
+        price: '35 000',
+        shortInfo: 'My beautiful car!',
+      }
     ]
     return (
       <div>
